@@ -1,6 +1,6 @@
 # CS4330 Final
 Comparing Java and Swift
-Aaron Henry, Jack Murphy, and Landen Eagan
+Aaron Henry, John Murphy, and Landen Eagan
 
 # Why was the language created?
 # What problems was the language trying to address?
